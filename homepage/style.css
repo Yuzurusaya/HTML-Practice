@@ -1,0 +1,29 @@
+header{
+    background-color:  #fff5ee;
+    padding: 20px 0;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+     gap: 0 10px;
+     justify-content:center;
+     font-family: 'Mochiy Pop One', sans-serif;
+}
+h1{
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+.blog-contents{
+    display: flex;
+    width: 90%;
+    gap: 0 20px;
+    justify-content:center ;
+    margin: 0 auto;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+.blog{
+    width: 30%;
+}
+img{
+    width: 100%;
+}
