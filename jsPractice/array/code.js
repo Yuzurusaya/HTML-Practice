@@ -27,6 +27,7 @@ obj.id=30;
 console.log(obj.id);
 
 obj["isStudent"]=false;
+obj.isStudent=true;
 
 //for-of
 for(let a of arr){
